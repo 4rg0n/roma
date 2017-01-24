@@ -52,7 +52,7 @@ public class Roma
                 }
 
                 if (romaLetter == 'C' && (nextRomaLetter == 'D' || nextRomaLetter == 'M')) {
-                    result -= 10;
+                    result -= 100;
                     continue;
                 }
 
